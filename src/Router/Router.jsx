@@ -15,7 +15,7 @@ const appRouters = createBrowserRouter([
             {
                 path: "/",
                 element: <Homepage />,
-                loader: () => fetch("")
+                loader: () => fetch("chefs.json")
             },
 
 

@@ -53,7 +53,7 @@ const Navbar = () => {
     );
 
     return (
-        <div className="sticky top-0 z-50 shadow-md p-3 rounded">
+        <div className="sticky top-0 z-50 shadow-md p-5 rounded">
             <div className="container mx-auto flex justify-between items-center">
                 <div className='flex items-center justify-center space-x-1'>
                     <NavLink to="/">
@@ -85,8 +85,7 @@ const Navbar = () => {
             {/* Mobile Menu */}
             <ul
                 id="mobile-menu"
-                className="md:hidden space-y-5 hidden text-center mt-10 font-medium items-center"
-            >
+                className="md:hidden space-y-5 hidden text-center mt-10 font-medium items-center">
                 {navLinks}
             </ul>
         </div>

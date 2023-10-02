@@ -1,10 +1,14 @@
+import Banner from "./Banner/Banner";
+
+
 
 
 const Homepage = () => {
 
 
     return (
-        <div>
+        <div className="mt-16">
+            <Banner />
 
         </div>
     );
