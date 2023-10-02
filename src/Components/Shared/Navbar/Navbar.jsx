@@ -36,32 +36,35 @@ const Navbar = () => {
             </li>
             <li>
                 <NavLink to="/login">
-                    <button className='bg-lime-600 hover:bg-lime-700 text-white 
-                    px-2 py-1 rounded'>Login</button>
+                    <button className='bg-lime-600 hover:bg-lime-700 text-white px-2 py-1 rounded md:px-3 md:py-2'>
+                        Login
+                    </button>
                 </NavLink>
             </li>
             <li>
                 <NavLink to="/register">
-                    <button className='bg-lime-600 hover:bg-lime-700 text-white 
-                     px-2 py-1 rounded'>Register</button>
+                    <button className='bg-lime-600 hover:bg-lime-700 text-white px-2 py-1 rounded md:px-3 md:py-2'>
+                        Register
+                    </button>
                 </NavLink>
             </li>
+
         </>
     );
 
     return (
-        <div className="sticky top-0 z-50 bg-white shadow p-3">
+        <div className="sticky top-0 z-50 shadow-md p-3 rounded">
             <div className="container mx-auto flex justify-between items-center">
-                <div className='flex items-center justify-center space-x-2'>
+                <div className='flex items-center justify-center space-x-1'>
                     <NavLink to="/">
                         <img
                             src="https://cdn.icon-icons.com/icons2/1368/PNG/512/-meal_89750.png"
                             alt="Logo"
-                            className="h-7"
+                            className="h-8"
                         />
                     </NavLink>
                     <NavLink to="/">
-                        <h3 className='web-title text-lg font-semibold'>TasteZen</h3>
+                        <h3 className='web-title text-xl font-semibold'>TasteZen</h3>
                     </NavLink>
                 </div>
                 <ul className="hidden md:flex space-x-5 font-medium justify-center items-center">
