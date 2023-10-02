@@ -36,14 +36,14 @@ const Navbar = () => {
             </li>
             <li>
                 <NavLink to="/login">
-                    <button className='bg-blue-500 hover:bg-blue-700 text-white 
-                    font-semibold px-1 py-1 rounded'>Login</button>
+                    <button className='bg-lime-600 hover:bg-lime-700 text-white 
+                    px-2 py-1 rounded'>Login</button>
                 </NavLink>
             </li>
             <li>
                 <NavLink to="/register">
-                    <button className='bg-blue-500 hover:bg-blue-700 text-white 
-                    font-semibold px-1 py-1 rounded'>Register</button>
+                    <button className='bg-lime-600 hover:bg-lime-700 text-white 
+                     px-2 py-1 rounded'>Register</button>
                 </NavLink>
             </li>
         </>
