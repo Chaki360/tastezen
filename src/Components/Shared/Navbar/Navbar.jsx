@@ -53,7 +53,7 @@ const Navbar = () => {
     );
 
     return (
-        <div className="sticky top-0 z-50 shadow-md p-5 rounded">
+        <div className="sticky z-50 top-0 shadow-md p-5 rounded bg-white">
             <div className="container mx-auto flex justify-between items-center">
                 <div className='flex items-center justify-center space-x-1'>
                     <NavLink to="/">
@@ -89,6 +89,8 @@ const Navbar = () => {
                 {navLinks}
             </ul>
         </div>
+
+
     );
 };
 

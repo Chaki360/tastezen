@@ -1,0 +1,283 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://primer.com.ph/business/wp-content/uploads/sites/9/2016/10/photo-e1476955623811.jpg",
+        "chef_name": "John Smith",
+        "bio": "Chef John Smith is a passionate culinary artist with a deep love for Italian cuisine. With a remarkable 15 years of experience, he has become renowned for his exceptional skills in creating mouthwatering pasta dishes and delectable desserts that leave diners craving for more. Chef John's dedication to the art of cooking is reflected in his impressive repertoire of 120 recipes. His creations have earned him a substantial following, with 4500 admirers who appreciate the exquisite flavors he brings to the table.",
+        "years_of_experience": 10,
+        "number_of_recipes": 5,
+        "likes": 705,
+        "recipes": [
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Pancetta",
+                    "Black pepper"
+                ],
+                "cooking_method": "1. Cook spaghetti until al dente. 2. In a separate pan, fry pancetta. 3. Mix eggs, cheese, and pepper. 4. Combine with cooked spaghetti. 5. Add pancetta.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Chicken Alfredo",
+                "ingredients": [
+                    "Chicken breasts",
+                    "Heavy cream",
+                    "Parmesan cheese",
+                    "Fettuccine",
+                    "Garlic"
+                ],
+                "cooking_method": "1. Sauté chicken and garlic. 2. Cook pasta. 3. Combine cream and cheese. 4. Mix all ingredients.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Mango Salsa",
+                "ingredients": [
+                    "Mango",
+                    "Red onion",
+                    "Cilantro",
+                    "Lime juice",
+                    "Jalapeño"
+                ],
+                "cooking_method": "1. Dice mango, onion, and jalapeño. 2. Chop cilantro. 3. Mix all ingredients. 4. Add lime juice.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://www.bellanaija.com/wp-content/uploads/2015/06/dreamstime_xl_32896684.jpg",
+        "chef_name": "Maria Rodriguez",
+        "bio": "Chef Maria Rodriguez is a true master of Mexican flavors and spices. With a decade of culinary experience under her belt, she brings a unique and tantalizing twist to traditional Mexican dishes. Maria's expertise is evident in her impressive portfolio of 90 recipes, each bursting with authentic Mexican flair. Her dedication to her craft has garnered her a loyal following of 3800 fans who appreciate the culinary journey she takes them on. Maria's dishes are a testament to her years of culinary expertise and her commitment to delivering exceptional flavors.",
+        "years_of_experience": 8,
+        "number_of_recipes": 4,
+        "likes": 550,
+        "recipes": [
+            {
+                "recipe_name": "Beef Stir-Fry",
+                "ingredients": [
+                    "Beef strips",
+                    "Bell peppers",
+                    "Soy sauce",
+                    "Ginger",
+                    "Garlic"
+                ],
+                "cooking_method": "1. Stir-fry beef with garlic and ginger. 2. Add bell peppers. 3. Pour soy sauce.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Caesar Salad",
+                "ingredients": [
+                    "Romaine lettuce",
+                    "Croutons",
+                    "Parmesan cheese",
+                    "Caesar dressing",
+                    "Chicken"
+                ],
+                "cooking_method": "1. Toss lettuce, croutons, and cheese. 2. Add grilled chicken. 3. Drizzle dressing.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Chocolate Cake",
+                "ingredients": [
+                    "Flour",
+                    "Sugar",
+                    "Cocoa powder",
+                    "Eggs",
+                    "Milk"
+                ],
+                "cooking_method": "1. Mix dry ingredients. 2. Add eggs and milk. 3. Bake until done.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://www.mbbmanagement.com/wp-content/uploads/2017/09/Depositphotos_10674566_chef.jpg",
+        "chef_name": "Sarah Johnson",
+        "bio": "Chef Sarah Johnson is a culinary innovator known for her fusion of Asian and Mediterranean cuisines. With 12 years of experience in the kitchen, she has mastered the art of blending flavors and creating dishes that are both visually stunning and incredibly delicious. Sarah's repertoire includes 110 recipes that showcase her talent for harmonizing diverse ingredients. She has a dedicated following of 4200 food enthusiasts who savor the creative twists she brings to every meal.",
+        "years_of_experience": 12,
+        "number_of_recipes": 5,
+        "likes": 625,
+        "recipes": [
+            {
+                "recipe_name": "Spicy Tofu Stir-Fry",
+                "ingredients": [
+                    "Tofu",
+                    "Broccoli",
+                    "Bell peppers",
+                    "Soy sauce",
+                    "Sriracha"
+                ],
+                "cooking_method": "1. Sauté tofu with soy sauce and Sriracha. 2. Add broccoli and bell peppers. 3. Stir-fry until tender.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Mediterranean Quinoa Salad",
+                "ingredients": [
+                    "Quinoa",
+                    "Cucumber",
+                    "Tomato",
+                    "Kalamata olives",
+                    "Feta cheese"
+                ],
+                "cooking_method": "1. Cook quinoa. 2. Mix with chopped vegetables, olives, and feta cheese. 3. Season to taste.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Spicy Sushi Burrito",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Avocado",
+                    "Spicy mayo",
+                    "Cucumber"
+                ],
+                "cooking_method": "1. Lay out nori seaweed. 2. Spread sushi rice. 3. Add avocado, cucumber, and spicy mayo. 4. Roll tightly.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://global-uploads.webflow.com/5f0082d019150187c1bdb9ca/63d0f6d18842ecf4ddb10ba3_chef%20adalah%20(1).webp",
+        "chef_name": "Carlos Martinez",
+        "bio": "Chef Carlos Martinez is a master of Latin American cuisine with a passion for creating vibrant and flavorful dishes. With 15 years of culinary experience, he has become a symbol of authentic Latin flavors. Carlos's culinary expertise shines through in his impressive collection of 130 recipes, each celebrating the rich and diverse culinary traditions of Latin America. He has a devoted following of 4800 food enthusiasts who appreciate the cultural richness he brings to their plates.",
+        "years_of_experience": 15,
+        "number_of_recipes": 6,
+        "likes": 888,
+        "recipes": [
+            {
+                "recipe_name": "Tacos al Pastor",
+                "ingredients": [
+                    "Pork shoulder",
+                    "Pineapple",
+                    "Cilantro",
+                    "Onion",
+                    "Corn tortillas"
+                ],
+                "cooking_method": "1. Marinate pork with spices. 2. Grill with pineapple. 3. Serve on corn tortillas with cilantro and onion.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Ceviche",
+                "ingredients": [
+                    "Fresh fish",
+                    "Lime juice",
+                    "Red onion",
+                    "Cilantro",
+                    "Jalapeño"
+                ],
+                "cooking_method": "1. Dice fish. 2. Mix with lime juice, onion, cilantro, and jalapeño. 3. Chill and serve.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Empanadas",
+                "ingredients": [
+                    "Ground beef",
+                    "Onion",
+                    "Bell pepper",
+                    "Olives",
+                    "Pastry dough"
+                ],
+                "cooking_method": "1. Sauté beef with onion, bell pepper, and olives. 2. Fill pastry dough. 3. Bake until golden.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://www.escoffier.edu/wp-content/uploads/2016/02/Smiling-female-chef-with-white-hat-and-uniform-in-a-kitchen-e1611773135718.jpg",
+        "chef_name": "Emily Wilson",
+        "bio": "Chef Emily Wilson is a culinary artist with a passion for creating mouthwatering desserts and pastries. With 8 years of experience in the world of baking and confectionery, she has honed her skills to perfection. Emily's sweet creations are a testament to her dedication to delivering delightful treats. She has a delightful collection of 75 dessert recipes that have captured the hearts of 3200 dessert lovers. Emily's love for all things sweet shines through in every bite.",
+        "years_of_experience": 8,
+        "number_of_recipes": 3,
+        "likes": 995,
+        "recipes": [
+            {
+                "recipe_name": "Chocolate Brownie",
+                "ingredients": [
+                    "Chocolate",
+                    "Butter",
+                    "Sugar",
+                    "Eggs",
+                    "Flour"
+                ],
+                "cooking_method": "1. Melt chocolate and butter. 2. Mix with sugar and eggs. 3. Stir in flour. 4. Bake until gooey.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Classic Apple Pie",
+                "ingredients": [
+                    "Apples",
+                    "Pie crust",
+                    "Cinnamon",
+                    "Sugar",
+                    "Lemon juice"
+                ],
+                "cooking_method": "1. Slice apples. 2. Toss with cinnamon, sugar, and lemon juice. 3. Fill pie crust. 4. Bake until golden.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Raspberry Cheesecake",
+                "ingredients": [
+                    "Cream cheese",
+                    "Raspberries",
+                    "Graham cracker crust",
+                    "Sugar",
+                    "Vanilla extract"
+                ],
+                "cooking_method": "1. Beat cream cheese, sugar, and vanilla. 2. Pour over crust. 3. Top with raspberries. 4. Chill and serve.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://lostatsay.com/wp-content/uploads/2022/10/Happy-Birthday-to-Chef-Featured-Image.jpg",
+        "chef_name": "James Anderson",
+        "bio": "Chef James Anderson is a barbecue aficionado with a knack for creating mouthwatering smoked meats and savory dishes. With 20 years of experience in the world of barbecue and grilling, he has become a true pitmaster. James's barbecue expertise is evident in his impressive collection of 150 recipes, each highlighting the art of slow-cooked, smoky goodness. He has a loyal following of 5500 barbecue enthusiasts who appreciate the rich flavors he brings to their plates.",
+        "years_of_experience": 20,
+        "number_of_recipes": 4,
+        "likes": 475,
+        "recipes": [
+            {
+                "recipe_name": "Smoked Brisket",
+                "ingredients": [
+                    "Brisket",
+                    "Salt",
+                    "Black pepper",
+                    "Paprika",
+                    "Garlic powder"
+                ],
+                "cooking_method": "1. Season brisket with salt, pepper, paprika, and garlic powder. 2. Smoke low and slow until tender.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "BBQ Ribs",
+                "ingredients": [
+                    "Pork ribs",
+                    "BBQ rub",
+                    "Barbecue sauce",
+                    "Applewood chips"
+                ],
+                "cooking_method": "1. Rub ribs with BBQ rub. 2. Smoke with applewood chips. 3. Brush with barbecue sauce. 4. Grill to perfection.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Grilled Corn on the Cob",
+                "ingredients": [
+                    "Corn on the cob",
+                    "Butter",
+                    "Salt",
+                    "Black pepper",
+                    "Garlic"
+                ],
+                "cooking_method": "1. Rub corn with butter, salt, black pepper, and garlic. 2. Grill until charred and tender.",
+                "rating": 4.4
+            }
+        ]
+    }
+]
